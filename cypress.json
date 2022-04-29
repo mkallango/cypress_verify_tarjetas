@@ -1,0 +1,7 @@
+{
+    "baseUrl":"http://143.198.117.99:88/",
+    "viewportWidth": 1297,
+    "viewportHeight": 846,
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout":10000
+}
