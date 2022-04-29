@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "cyo": ".\\node_modules\\.bin\\cypress open"
+    "cy:open": ".\\node_modules\\.bin\\cypress open",
+    "cy:run": ".\\node_modules\\.bin\\cypress run"
   },
   "author": "Marcello Mello",
   "license": "ISC",
